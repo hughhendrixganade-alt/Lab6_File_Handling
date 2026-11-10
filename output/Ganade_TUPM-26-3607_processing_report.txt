@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Ganade
+Student ID: TUPM-26-3607
+Seed Digit: 7
+ID Sum: 24
+Verification Value: 151
+Dataset Sample Size: 74
+Valid Records: 74
+Average Global Active Power: 4.055
+JSON File: Ganade_TUPM-26-3607_record.json
+Backup File: Ganade_TUPM-26-3607_record.csv
