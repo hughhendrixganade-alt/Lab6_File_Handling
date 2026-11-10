@@ -1,0 +1,67 @@
+[
+    {
+        "Country": "Japan",
+        "Year": "2022",
+        "Attack Type": "Phishing",
+        "Target Industry": "Banking",
+        "Financial Loss (in Million $)": "98.47",
+        "Number of Affected Users": "972469",
+        "Attack Source": "Nation-state",
+        "Security Vulnerability Type": "Zero-day",
+        "Defense Mechanism Used": "Antivirus",
+        "Incident Resolution Time (in Hours)": "21",
+        "Rank": 1
+    },
+    {
+        "Country": "USA",
+        "Year": "2022",
+        "Attack Type": "SQL Injection",
+        "Target Industry": "Government",
+        "Financial Loss (in Million $)": "98.46",
+        "Number of Affected Users": "429452",
+        "Attack Source": "Hacker Group",
+        "Security Vulnerability Type": "Weak Passwords",
+        "Defense Mechanism Used": "Antivirus",
+        "Incident Resolution Time (in Hours)": "6",
+        "Rank": 2
+    },
+    {
+        "Country": "Brazil",
+        "Year": "2022",
+        "Attack Type": "Phishing",
+        "Target Industry": "Banking",
+        "Financial Loss (in Million $)": "98.06",
+        "Number of Affected Users": "884502",
+        "Attack Source": "Insider",
+        "Security Vulnerability Type": "Unpatched Software",
+        "Defense Mechanism Used": "AI-based Detection",
+        "Incident Resolution Time (in Hours)": "55",
+        "Rank": 3
+    },
+    {
+        "Country": "UK",
+        "Year": "2022",
+        "Attack Type": "Phishing",
+        "Target Industry": "Government",
+        "Financial Loss (in Million $)": "97.56",
+        "Number of Affected Users": "722445",
+        "Attack Source": "Nation-state",
+        "Security Vulnerability Type": "Weak Passwords",
+        "Defense Mechanism Used": "Firewall",
+        "Incident Resolution Time (in Hours)": "10",
+        "Rank": 4
+    },
+    {
+        "Country": "Japan",
+        "Year": "2022",
+        "Attack Type": "Malware",
+        "Target Industry": "Education",
+        "Financial Loss (in Million $)": "97.32",
+        "Number of Affected Users": "742866",
+        "Attack Source": "Nation-state",
+        "Security Vulnerability Type": "Social Engineering",
+        "Defense Mechanism Used": "Encryption",
+        "Incident Resolution Time (in Hours)": "61",
+        "Rank": 5
+    }
+]

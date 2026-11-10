@@ -1,0 +1,32 @@
+CYBERSECURITY INCIDENT REPORT
+--------------------------------------------------
+Student ID: TUPM-26-3607
+Target Year: 2022
+Total Records in Dataset: 3000
+Incidents in Target Year: 318
+
+Incident Count per Attack Type
+  Malware: 64
+  Phishing: 57
+  Ransomware: 56
+  DDoS: 54
+  SQL Injection: 46
+  Man-in-the-Middle: 41
+
+Financial Loss (USD millions)
+  Total: 15870.86
+  Average: 49.91
+  Invalid loss values skipped: 0
+
+Five Costliest Incidents
+  1. Japan | Phishing | Banking | $98.47 M
+  2. USA | SQL Injection | Government | $98.46 M
+  3. Brazil | Phishing | Banking | $98.06 M
+  4. UK | Phishing | Government | $97.56 M
+  5. Japan | Malware | Education | $97.32 M
+
+Output Files
+  Filtered CSV: TUPM-26-3607_cyber_2022_filtered.csv
+  Top-five JSON: TUPM-26-3607_cyber_2022_top5.json
+  JSON summary: TUPM-26-3607_cyber_2022_summary.json
+  Backup: TUPM-26-3607_cyber_2022_summary.json (verified)

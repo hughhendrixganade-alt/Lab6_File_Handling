@@ -1,0 +1,18 @@
+{
+    "student_id": "TUPM-26-3607",
+    "seed_digit": 7,
+    "id_sum": 24,
+    "records_processed": 1024,
+    "invalid_records": 0,
+    "target_status_class": "5xx",
+    "records_in_target_class": 0,
+    "count_per_status_code": {
+        "200": 846,
+        "206": 8,
+        "302": 144,
+        "304": 21,
+        "404": 5
+    },
+    "top_five_urls": [],
+    "note": "No records in target class"
+}

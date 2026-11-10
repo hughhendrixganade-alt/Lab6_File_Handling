@@ -1,0 +1,20 @@
+{
+    "student_id": "TUPM-26-3607",
+    "seed_digit": 7,
+    "target_year": 2022,
+    "total_records": 3000,
+    "incidents_in_target_year": 318,
+    "count_per_attack_type": {
+        "Phishing": 57,
+        "Malware": 64,
+        "Ransomware": 56,
+        "SQL Injection": 46,
+        "DDoS": 54,
+        "Man-in-the-Middle": 41
+    },
+    "invalid_loss_records": 0,
+    "total_financial_loss_usd_millions": 15870.86,
+    "average_financial_loss_usd_millions": 49.91,
+    "five_costliest_file": "TUPM-26-3607_cyber_2022_top5.json",
+    "note": "OK"
+}
