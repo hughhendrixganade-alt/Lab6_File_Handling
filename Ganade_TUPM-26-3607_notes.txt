@@ -1,0 +1,5 @@
+Student: Ganade
+Student ID: TUPM-26-3607
+Seed digit: 7
+ID sum: 24
+Verification value: 151
